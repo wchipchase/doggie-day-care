@@ -30,3 +30,5 @@ const dogs = [
     imgUrl: 'https://data.whicdn.com/images/309827867/superthumb.jpg?t=1522391824',
   },
 ]
+
+export default dogs;
