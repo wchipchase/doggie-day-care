@@ -2,25 +2,25 @@ const employees = [
   {
     id: 'employee1',
     name: 'Bob Barker',
-    posistion: 'Manager',
+    position: 'Manager',
     isFullTime: true,
   },
   {
     id: 'employee2',
     name: 'Sandy Claws',
-    posistion: 'Shift Supervisor',
+    position: 'Shift Supervisor',
     isFullTime: true,
   },
   {
     id: 'employee3',
     name: 'Fran Fisher',
-    posistion: 'Cashier',
+    position: 'Cashier',
     isFullTime: false,
   },
   {
     id: 'employee4',
     name: 'Stan Stevenson',
-    posistion: 'Cashier',
+    position: 'Cashier',
     isFullTime: false,
   },
 ]
