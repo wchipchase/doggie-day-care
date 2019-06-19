@@ -3,12 +3,13 @@ import myDogs from './dogs';
 import DogPen from '../components/DogPen/DogPen';
 import myEmployees from './employees';
 import StaffRoom from '../components/StaffRoom/StaffRoom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 class App extends React.Component {
   state = {
     dogs: [],
-    employess: [],
+    employees: [],
   }
   componentDidMount() {
     this.setState({ dogs: myDogs });
