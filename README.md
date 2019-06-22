@@ -1,3 +1,17 @@
+# Doggie Day Care
+A website to idientify atendees and staff at a doggie day care
+
+## Description
+This demonstrates principles of react
+
+## Getting Started
+```
+$ git clone https://github.com/wchipchase/doggie-day-care
+```
+### Screenshot
+
+![doggie-day-care](https://raw.githubusercontent.com/wchipchase/personal-bio-site/master/screenshots/personal_site.JPG "Doggie Day Care")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
