@@ -10,7 +10,7 @@ $ git clone https://github.com/wchipchase/doggie-day-care
 ```
 ### Screenshot
 
-![doggie-day-care](https://raw.githubusercontent.com/wchipchase/personal-bio-site/master/screenshots/personal_site.JPG "Doggie Day Care")
+![doggie-day-care](https://raw.githubusercontent.com/wchipchase/doggie-day-care/setup/screenshots/dogdaycare.JPG "Doggie Day Care")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
