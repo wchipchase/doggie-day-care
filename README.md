@@ -1,5 +1,5 @@
 # Doggie Day Care
-A website to idientify atendees and staff at a doggie day care
+A website to identify atendees and staff at a doggie day care
 
 ## Description
 This demonstrates principles of react
