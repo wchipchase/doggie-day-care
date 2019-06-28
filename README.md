@@ -8,7 +8,8 @@ This demonstrates principles of react
 ```
 $ git clone https://github.com/wchipchase/doggie-day-care
 ```
-### Screenshot
+### Screenshots
+![doggie-day-care](https://raw.githubusercontent.com/wchipchase/doggie-day-care/setup/screenshots/dogdaycare-part-2.JPG "Doggie Day Care 2")
 
 ![doggie-day-care](https://raw.githubusercontent.com/wchipchase/doggie-day-care/setup/screenshots/dogdaycare.JPG "Doggie Day Care")
 
